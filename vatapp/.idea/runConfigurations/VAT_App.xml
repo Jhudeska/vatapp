@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="VAT App" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.proftaak.vatapp.Main" />
+    <module name="VAT App" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
